@@ -1,0 +1,2 @@
+# Wavelength-Python-Arduino-
+Musical beats and tones get played on sensing the user’s hand’s distance from the installation using ultrasonic sensors. Background beats and different instruments have been added and  can be changed according to users' will.One of the important parts of the installation is that the users don’t need any instrument or tool to interact with it, the hand’s movement in the air is enough, which again makes the installation interesting for them.
